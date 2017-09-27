@@ -11,6 +11,7 @@ public class App
 	
 	static public String retournerChaine(String xml){
 		String chaine;
+		System.out.println(xml);
 		chaine=xml;
 		return chaine;
 	}
