@@ -6,10 +6,6 @@ package odeva.test;
  */
 
 
-/**
-* classe qui sert à rien
-*
-**/
 public class App 
 {
 	
